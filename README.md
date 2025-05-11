@@ -56,6 +56,18 @@
 | **Chat**     | Firebase Realtime DB or Firestore |
 
 ---
+## 📸 Screenshots
+
+<div style="display: flex; gap: 10px; overflow-x: auto;">
+  <img src="https://github.com/user-attachments/assets/312107f8-f177-4ac9-90ce-bfc6cebaba30" alt="Login" width="300">
+  <img src="https://github.com/user-attachments/assets/f8e641bc-110e-4f70-a1a6-ed23b8cf55c7" alt="Admin Panel" width="300">
+  <img src="https://github.com/user-attachments/assets/1938b864-224b-4a40-9eeb-d08b7f16d9c5" alt="Student Dashboard" width="300">
+  <img src="https://github.com/user-attachments/assets/9b98eba4-646c-4413-a8b2-a4d9500b5dab" alt="Buy Course" width="300">
+  <img src="https://github.com/user-attachments/assets/754e7625-58d4-4eb7-be08-407c252017c7" alt="Live Class" width="300">
+  <img src="https://github.com/user-attachments/assets/1de9af6b-9415-4fc6-84ba-f31a7a1c232f" alt="Chat" width="300">
+  <img src="https://github.com/user-attachments/assets/189dfc8c-1cb4-4360-a096-e4ee342ae9ee" alt="Course List" width="300">
+</div>
+
 
 ## 📲 Installation
 
