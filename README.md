@@ -61,4 +61,4 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/dpsi-avishkar.git
+   git clone https://github.com/Kalpesh-Sananse/dpsi-avishkar.git
