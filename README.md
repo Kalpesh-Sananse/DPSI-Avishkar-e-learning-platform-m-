@@ -70,7 +70,7 @@
   <tr>
     <td><img src="https://github.com/user-attachments/assets/1de9af6b-9415-4fc6-84ba-f31a7a1c232f" alt="Chat" width="200"/></td>
     <td><img src="https://github.com/user-attachments/assets/189dfc8c-1cb4-4360-a096-e4ee342ae9ee" alt="Course List" width="200"/></td>
-    <td></td><td></td><td></td>
+    
   </tr>
 </table>
 
